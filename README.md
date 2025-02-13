@@ -4,4 +4,8 @@
 
 ### Students: Bridget May, Erin Bokausek, Lola Gonzalez Lebron, and Paras Rajan
 
-![Sequence Diagram](./group-09-website/image (1).png)
+Sequence Diagram:
+![alt text](sequence.png "Sequence Diagram")
+
+Prototype:
+![alt text](proto.png "Prototype")

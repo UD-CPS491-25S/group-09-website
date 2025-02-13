@@ -8,4 +8,4 @@ Sequence Diagram:
 ![alt text](sequence.png "Sequence Diagram")
 
 Prototype:
-![alt text](proto.png "Prototype")
+![alt text](proto.PNG "Prototype")
